@@ -4,7 +4,7 @@ A simple procedural 3D planet generator made with three.js and pure JS for [this
 
 ![A procedural planet with a ring](https://pablohuet.ml/wp-content/uploads/2018/06/canvas.png)
 
-You can test a live version [here](https://pablohuet.ml/public/examples/article2/).
+You can test a live version [here](http://pablohuet.ml/public/examples/article2/).
 
 Note that it is not intended to be fast or accurate, use it at your own risk. 
 
