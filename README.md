@@ -1,8 +1,8 @@
 # Procedural 3D planets generator
 
-A simple procedural 3D planet generator made with three.js and pure JS for [this article](https://pablohuet.ml/el-ruido-y-la-furia-ii/) (in spanish). 
+A simple procedural 3D planet generator made with three.js and pure JS for [this article](http://pablohuet.ml/blog/3) (in spanish). 
 
-![A procedural planet with a ring](https://pablohuet.ml/wp-content/uploads/2018/06/canvas.png)
+![A procedural planet with a ring](http://huetapi.ml/media/11)
 
 You can test a live version [here](http://pablohuet.ml/public/examples/article2/).
 
