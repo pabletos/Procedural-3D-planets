@@ -2,7 +2,7 @@
 
 A simple procedural 3D planet generator made with three.js and pure JS for [this article](http://pablohuet.ml/blog/3) (in spanish). 
 
-![A procedural planet with a ring](http://huetapi.ml/media/11)
+![A procedural planet with a ring](http://huetapi.ml:5000/media/11)
 
 You can test a live version [here](http://pablohuet.ml/public/examples/article2/).
 
